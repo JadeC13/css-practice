@@ -1,3 +1,10 @@
-h1 {
+h1{
     border: 1px solid black;
+    color: hotpink;
+    margin: 2em 2em 2em 2em;
+    width: 5em;
+    display: inline-block;
+}
+h1:hover {
+    background-color: lightpink;
 }
